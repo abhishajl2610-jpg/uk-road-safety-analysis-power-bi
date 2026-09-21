@@ -3,7 +3,10 @@
 ## Overview
 An interactive Power BI dashboard that analyses UK road collisions,
 casualties and vehicles in 2024. It helps identify when, where and under what conditions
-collisions happen, and who is most affected
+collisions happen, and who is most affected.
+
+## Dashboard
+<img width="800" alt="UK Road Safety Dashboard" src="https://github.com/user-attachments/assets/2552161e-8138-4084-a666-cc128578b5e5" />
 
 ## Key Metrics
 | Metric | Value |
