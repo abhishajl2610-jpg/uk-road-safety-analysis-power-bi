@@ -45,6 +45,3 @@ daylight is more dangerous.
 
 ## Tools Used
 Power BI Desktop, DAX, Power Query
-
-## Data Source
-(Add your source here, for example the UK Department for Transport road safety data, and the year.)
